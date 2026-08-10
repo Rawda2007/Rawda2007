@@ -23,7 +23,6 @@ I'm a Computer Science student passionate about Backend Development and building
 <p>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python" />
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
 </p>
@@ -40,7 +39,6 @@ I'm a Computer Science student passionate about Backend Development and building
 </p>
 
 ### Database
-
 <p>
   <img src="https://skillicons.dev/icons?i=sqlserver" />
 </p>
@@ -149,6 +147,3 @@ A backend system for managing real-estate properties and rental operations.
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
