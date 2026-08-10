@@ -104,7 +104,7 @@ A backend system for managing real-estate properties and rental operations.
 **Technologies:**  
 `C#` `ASP.NET Core` `SQL Server` `ADO.NET` `RESTful API`
 
-[View Project](https://github.com/Rawda2007/RealEstateOffice)
+[View Project](https://github.com/Rawda2007/RealEstateOfficeAPI)
 
 ---
 
