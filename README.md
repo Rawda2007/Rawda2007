@@ -1,16 +1,164 @@
-## Hi there 👋
+# 👋 Hi, I'm Rawda Eweda
 
-<!--
-**Rawda2007/Rawda2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Junior .NET Backend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about **Backend Development** and building practical applications using **C# and .NET**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Focused on Backend Development
+- 🌱 Currently learning **ASP.NET Core & Advanced .NET**
+- 🗄️ Interested in **Databases, APIs & Software Architecture**
+- 🚀 Building real-world backend projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- C#
+- C++
+- SQL
+
+### Backend
+
+- .NET
+- ASP.NET Core Web API
+- Entity Framework Core
+- ADO.NET
+- LINQ
+- RESTful APIs
+
+### Database
+
+- SQL Server
+- T-SQL
+- Database Design
+
+### Authentication & API
+
+- JWT Authentication
+- Authorization
+- Swagger / OpenAPI
+- Postman
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+
+---
+
+## 🏗️ Architecture & Concepts
+
+- 3-Tier Architecture
+- Repository Pattern
+- Dependency Injection
+- RESTful API Design
+- Authentication & Authorization
+- Entity Framework Core
+- Database Relationships
+
+---
+
+## 🚀 Featured Projects
+
+### 📅 MeetFlow
+
+Meeting Management & Follow-up Platform built with **ASP.NET Core Web API**.
+
+**Technologies:**  
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT` `Swagger` `Gemini AI`
+
+- Meeting management
+- Meeting notes
+- Decisions tracking
+- Follow-up tasks
+- AI-powered task extraction
+
+[View Project](https://github.com/Rawda2007/Project_MeetFlow)
+
+---
+
+### 🚗 DVLD Management System
+
+A desktop application that simulates a **Driving & Vehicle License Department** management system.
+
+**Technologies:**  
+`C#` `Windows Forms` `SQL Server` `ADO.NET` `3-Tier Architecture`
+
+[View Project](https://github.com/Rawda2007/DVLD)
+
+---
+
+### 🏠 Real Estate Office
+
+A backend system for managing real-estate properties and rental operations.
+
+**Technologies:**  
+`C#` `ASP.NET Core` `SQL Server` `ADO.NET` `RESTful API`
+
+[View Project](https://github.com/Rawda2007/RealEstateOffice)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced ASP.NET Core
+- Dependency Injection
+- Clean Architecture
+- Advanced Entity Framework Core
+- Authentication & Authorization
+- Deployment & Cloud
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rawda2007&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda2007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rawda2007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda2007&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- [GitHub](https://github.com/Rawda2007)
+- [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out if you'd like to collaborate on a project or discuss backend development.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
