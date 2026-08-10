@@ -119,46 +119,13 @@ A backend system for managing real-estate properties and rental operations.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawda2007&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda2007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rawda2007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda2007&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - [GitHub](https://github.com/Rawda2007)
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](https://www.linkedin.com/in/rawda-eweda-b1b5ab376/)
 
 ---
 
-## 📫 Contact
-
-Feel free to reach out if you'd like to collaborate on a project or discuss backend development.
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
